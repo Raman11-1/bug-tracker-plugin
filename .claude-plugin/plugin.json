@@ -1,0 +1,23 @@
+{
+  "name": "bug-tracker",
+  "description": "Semiconductor bug tracking system with MCP integration, AI-powered triage, multi-source data import (NVD/GitHub), and chip family detection (Intel, AMD, ARM, NVIDIA, Qualcomm)",
+  "version": "1.0.0",
+  "author": {
+    "name": "Raman",
+    "email": "ramanrsm123@gmail.com"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/Raman11-1/Bug_Traking_System",
+  "homepage": "https://github.com/Raman11-1/Bug_Traking_System#readme",
+  "keywords": [
+    "bug-tracking",
+    "security",
+    "semiconductor",
+    "vulnerabilities",
+    "triage",
+    "mcp",
+    "cve",
+    "nvd",
+    "github-issues"
+  ]
+}

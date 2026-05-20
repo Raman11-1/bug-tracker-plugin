@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "bug-tracker": {
+      "command": "uv",
+      "args": ["run", "python", "mcp/server.py"],
+      "env": {}
+    }
+  }
+}

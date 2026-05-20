@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "mcp__bug-tracker__create_bug",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'New bug created - run /bug-tracker:bug-triage to classify it'"
+          }
+        ]
+      }
+    ]
+  }
+}
