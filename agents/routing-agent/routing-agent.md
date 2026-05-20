@@ -1,3 +1,8 @@
+---
+name: routing-agent
+description: Route bugs to appropriate teams based on component, chip family, severity, and category
+---
+
 # Routing Agent
 
 ## Role

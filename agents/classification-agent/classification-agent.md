@@ -1,3 +1,8 @@
+---
+name: classification-agent
+description: Classify bugs using rule-based pattern matching for severity, component, chip family, and category
+---
+
 # Classification Agent
 
 ## Role

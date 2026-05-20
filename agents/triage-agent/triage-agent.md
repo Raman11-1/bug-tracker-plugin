@@ -1,3 +1,8 @@
+---
+name: triage-agent
+description: Analyze incoming bugs and assign severity, priority, component, chip family, and route to teams
+---
+
 # Triage Agent
 
 ## Role

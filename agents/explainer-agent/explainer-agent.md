@@ -1,3 +1,8 @@
+---
+name: explainer-agent
+description: Explain classification decisions with evidence and human-readable reasoning
+---
+
 # Explainer Agent
 
 ## Role
